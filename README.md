@@ -11,9 +11,9 @@
 </div>
 <div> 
 <h3> Links </h3>
+<h4> My Study-log </h4>
+<a href="https://velog.io/@dldbdud314" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
 <h4> You can reach me through.. </h4>
 <a href="mailto:dldbdud314@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-000000?style=flat-square&logo=Naver&logoColor=green"/>
-<h4> My Study-log </h4>
-<a href="https://velog.io/@dldbdud314" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 </div>
