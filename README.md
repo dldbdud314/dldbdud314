@@ -1,7 +1,12 @@
-<img src="https://user-images.githubusercontent.com/57944099/227779061-666199d2-2570-40a0-b282-2707d20aed5c.png" style="float:right; width: 300px; height: 200px;"/> 
+## Intro
+
+**안녕하세요 미학적 코드 광공❔ 이유영입ㄴ다 ✨**
+
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdldbdud314&count_bg=%233D99C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 ## 🔎 Tech Stacks
+
+### Mainly Backend
 
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
